@@ -1,6 +1,6 @@
 {
   "name": "@metadata-ipfs/bonkfun-ipfs",
-  "version": "1.12.4",
+  "version": "1.12.5",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
@@ -22,7 +22,5 @@
     "node": ">=16.0.0"
   },
   "author": "James Johnson",
-  "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {}
+  "license": "MIT"
 }
