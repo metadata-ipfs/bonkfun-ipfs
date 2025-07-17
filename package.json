@@ -1,0 +1,28 @@
+{
+  "name": "@metadata-ipfs/bonkfun-ipfs",
+  "version": "1.12.4",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metadata-ipfs/bonkfun-ipfs.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "sha256",
+    "validation",
+    "utility",
+    "node",
+    "ipfs",
+    "bonkfun"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "James Johnson",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
