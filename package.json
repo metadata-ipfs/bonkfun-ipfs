@@ -1,6 +1,6 @@
 {
   "name": "@metadata-ipfs/bonkfun-ipfs",
-  "version": "1.12.5",
+  "version": "1.13.9",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
